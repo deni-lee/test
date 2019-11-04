@@ -2,6 +2,7 @@
   <div id="app">
     <h1> {{count}} </h1>
     <h5>{{myCount}}</h5>
+    <h3>hi</h3>
     <HelloWorld />
   </div>
 </template>
